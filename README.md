@@ -98,3 +98,8 @@ Fueled by relentless ambition 🔥 and a knack for unraveling complex tech myste
 I thrive under pressure, juggling multiple tasks with ease 🤹. 
 Standing at the nexus of technology and leadership 🌐, my journey is woven with diverse experiences and skills, lighting my path forward.
 
+###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasaf-abargel&theme=ambient_gradient_icons=true)
+
+###
