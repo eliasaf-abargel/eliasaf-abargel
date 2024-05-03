@@ -122,6 +122,15 @@ Standing at the nexus of technology and leadership 🌐, my journey is woven wit
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliasaf-abargel&theme=radical" alt="Al Mahdi's GitHub Contribution" />
 </p>
 
+<p align="center">
+    <a href="https://github.com/eliasaf-abargel">
+        <img alt="Al Mahdi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=eliasaf-abargel&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+    <a href="https://github.com/eliasaf-abargel">
+        <img alt="Al Mahdi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=eliasaf-abargel&langs_count=20&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+</p>
+
 ###
 
 
