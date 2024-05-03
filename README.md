@@ -1,13 +1,21 @@
-<h2 align="left">👋 Hi, I'm @eliasaf-abargel</h2>
+###
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmeG1yeDRxNWV2YXBrejV2ZDNva2x5bHh4bDd2bndmeW50OXlnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
 
-<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmeG1yeDRxNWV2YXBrejV2ZDNva2x5bHh4bDd2bndmeW50OXlnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">
+        <samp>&gt; Hey There!, I am 
+                <b> DevOps <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
+        </samp>
+</h3>
 
+###
+
+###
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 ###
 
 <div align="left">
