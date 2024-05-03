@@ -6,8 +6,12 @@
 
 ###
 
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
@@ -79,7 +83,7 @@
 
 ###
 
-
+<h3 align="left"> 👨‍💻 About Me</h3>
 
 👀 I'm deeply immersed in the world of DevSecOps
 🌱 Currently expanding my knowledge at Bar-Ilan University
