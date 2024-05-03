@@ -1,8 +1,10 @@
 ###
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmeG1yeDRxNWV2YXBrejV2ZDNva2x5bHh4bDd2bndmeW50OXlnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=DevOps+is+Life..&hearts;++;Self-taught+Web+Developer,;Server+AWS+Docker,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 ###
 
@@ -14,9 +16,28 @@
 
 ###
 
+<h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h3>
+
+👀 I'm deeply immersed in the world of DevSecOps
+🌱 Currently expanding my knowledge at Bar-Ilan University
+💞️ Eager to collaborate in the dynamic spheres of DevOps
+📫 Reach out to me at eliasafabargel@gmail.com
+⚡ Fun fact: I'm a dedicated Mac user 🍏
+
+🚀 Embarking on a voyage through the intricate realms of DevSecOps,
+I find myself at the crossroads of Microsoft and Linux system management, 
+navigating the waters with Docker 🐳 containers, Kubernetes, and scripting languages like Python 🐍 and Bash. 
+Fueled by relentless ambition 🔥 and a knack for unraveling complex tech mysteries 📚,
+I thrive under pressure, juggling multiple tasks with ease 🤹. 
+Standing at the nexus of technology and leadership 🌐, my journey is woven with diverse experiences and skills, lighting my path forward.
+
+###
+
+###
+
 ###
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
-###
+
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
@@ -91,22 +112,6 @@
 
 ###
 
-<h3 align="left"> 👨‍💻 About Me</h3>
-
-👀 I'm deeply immersed in the world of DevSecOps
-🌱 Currently expanding my knowledge at Bar-Ilan University
-💞️ Eager to collaborate in the dynamic spheres of DevOps
-📫 Reach out to me at eliasafabargel@gmail.com
-⚡ Fun fact: I'm a dedicated Mac user 🍏
-
-🚀 Embarking on a voyage through the intricate realms of DevSecOps,
-I find myself at the crossroads of Microsoft and Linux system management, 
-navigating the waters with Docker 🐳 containers, Kubernetes, and scripting languages like Python 🐍 and Bash. 
-Fueled by relentless ambition 🔥 and a knack for unraveling complex tech mysteries 📚,
-I thrive under pressure, juggling multiple tasks with ease 🤹. 
-Standing at the nexus of technology and leadership 🌐, my journey is woven with diverse experiences and skills, lighting my path forward.
-
-###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasaf-abargel&theme=ambient_gradient_icons=true)
 
