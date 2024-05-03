@@ -112,7 +112,16 @@ Standing at the nexus of technology and leadership 🌐, my journey is woven wit
 
 ###
 
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasaf-abargel&theme=ambient_gradient_icons=true)
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliasaf-abargel&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliasaf-abargel&theme=radical" alt="Al Mahdi's GitHub Contribution" />
+</p>
 
 ###
