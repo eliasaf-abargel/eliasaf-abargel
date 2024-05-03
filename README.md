@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=DevOps+is+Life..+%F0%9F%92%9D;O+Damil,+Self-taught+Web+Developer%F0%9F%94%8D;AWS+%E2%98%81%EF%B8%8F+Docker+%F0%9F%90%B3;Jenkins+%F0%9F%A7%B5%E2%80%8D%E2%99%82%EF%B8%8F+%2B+Kubernetes%F0%9F%94%A7;Active+Learner%2FResearcher%F0%9F%94%AC;Love+to+learn+new+stuff..+%F0%9F%92%96" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=DevOps+is+Life..+%F0%9F%92%9D;O+Damil,+Self-taught+Web+Developer%F0%9F%94%8D;AWS+%E2%98%81%EF%B8%8F+Docker+%F0%9F%90%B3;Jenkins+%F0%9F%A7%B5%E2%80%8D%E2%99%82%EF%B8%8F+Kubernetes%F0%9F%94%A7;Active+Learner%2FResearcher%F0%9F%94%AC;Love+to+learn+new+stuff..+%F0%9F%92%96" alt="Typing SVG">
   </a>
   🚀
 </p>
