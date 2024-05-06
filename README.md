@@ -10,13 +10,15 @@
 </p>
 
 ###
-
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
                 <b> DevOps <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
         </samp>
 </h3>
 
+###
+<br><br>
+![](https://github.com/eliasaf-abargel/eliasaf-abargel/blob/main/header_.png)
 ###
 
 <h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h3>
@@ -34,9 +36,6 @@ Fueled by relentless ambition 🔥 and a knack for unraveling complex tech myste
 I thrive under pressure, juggling multiple tasks with ease 🤹. 
 Standing at the nexus of technology and leadership 🌐, my journey is woven with diverse experiences and skills, lighting my path forward.
 
-###
-
-###
 
 ###
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
@@ -99,16 +98,6 @@ Standing at the nexus of technology and leadership 🌐, my journey is woven wit
 </div>
 
 ###
-
-
-
-
-
-
-
-
-
-
 
 </div>
 
